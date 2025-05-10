@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm passionate about programming, problem-solving, and bui
 
 ### 📫 Let's Connect:
 - **Email**: alokchittoria7@gmail.com
-- **LinkedIn**: [Your LinkedIn URL]
+- **LinkedIn**: [alokchittoria7]
 - **Portfolio**: [Coming Soon]
 
 ---
